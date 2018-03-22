@@ -12,6 +12,8 @@ Home directory == `/Users/<YOUR_USERNAME>/` or `~/` or `$HOME`
 
 [Spectacle (removes the only good reason people have to not like MacOS)](https://www.spectacleapp.com/)
 
+[Homebrew (package manager)](https://brew.sh/)
+
 ### Optional (for now)
 
 [Hammerspoon (deep macro/automation)](https://www.hammerspoon.org/)
@@ -43,4 +45,6 @@ Ctrl + Tab -- Switch windows within the current application
 ⌘ + M -- Minimize the current window (if you absolutely must)
 **Use Spectacle**
 
+### Open iTerm
 
+``
