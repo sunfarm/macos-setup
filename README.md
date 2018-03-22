@@ -36,9 +36,11 @@ Use spotlight search (⌘ + Space). At least use this for opening applications o
 
 [Remap CAPS LOCK](https://www.howtogeek.com/194705/how-to-disable-or-reassign-the-caps-lock-key-on-any-operating-system/) to something useful like Ctrl. CAPS LOCK is stupid as dirt and only gets in the way.
 
-Navigate your windows with these:
+Navigate through applications and windows with these:
 ⌘ + Tab -- Switch open applications (hold down ⌘ to see them)
 Ctrl + Tab -- Switch windows within the current application
 ⌘ + H -- Hide the current window (prefer this over minimizing)
 ⌘ + M -- Minimize the current window (if you absolutely must)
 **Use Spectacle**
+
+
