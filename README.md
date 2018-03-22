@@ -6,28 +6,29 @@ If you haven't used a Mac much, know that applications are often installed by dr
 
 Home directory == `/Users/<YOUR_USERNAME>/` or `~/` or `$HOME`
 
-[Google Chrome (better browser)](https://www.google.com/chrome/)
+[Google Chrome](https://www.google.com/chrome/) - Better web browser (you'll probably want all web browsers though)
 
-[iTerm (better terminal)](https://www.iterm2.com/)
+[iTerm](https://www.iterm2.com/) - Better terminal
 
-[Spectacle (removes the only good reason people have to not like MacOS)](https://www.spectacleapp.com/)
+[Spectacle](https://www.spectacleapp.com/) - emoves the only good reason people have to not like MacOS
 
-[Homebrew (package manager)](https://brew.sh/)
+[Homebrew](https://brew.sh/) - Package manager for MacOS
 
 ### Optional (for now)
 
-[Hammerspoon (deep macro/automation)](https://www.hammerspoon.org/)
+[Hammerspoon](https://www.hammerspoon.org/) - Deep macro/automation
 
+[ngrok](https://ngrok.com/download) - Secure tunnels to localhost
 
 ### Not free but worth every penny
 These are highly recommended software. If you have used one of these, but found something better please let me know.
 
-[Sublime Text (very fast, powerful text editor](https://www.sublimetext.com/)
+[Sublime Text](https://www.sublimetext.com/) - Fast **and** powerful text editor
 VERY generous trial period situation (choose your own). Try using vim mode
 
-[Things (external brain)](https://culturedcode.com/things/)
+[Things](https://culturedcode.com/things/) - External brain
 
-[Keyboard Maestro (automate anything)](https://www.keyboardmaestro.com/main/)
+[Keyboard Maestro](https://www.keyboardmaestro.com/main/) - Automate anything
 I use Hammerspoon for a number of automation tasks, but Keyboard Maestro just has so many features that it often comes through in a pinch. I also use the clipboard history and text expansion literally all the time.
 
 ### Tips
@@ -48,3 +49,9 @@ Ctrl + Tab -- Switch windows within the current application
 ### Open iTerm
 
 ``
+
+Install Homestead (along with VirtualBox and Vagrant)
+https://laravel.com/docs/5.6/homestead#installation-and-setup
+
+
+
