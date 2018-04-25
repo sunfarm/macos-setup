@@ -56,6 +56,8 @@ Run the installation script
 
 `bash install.sh`
 
+### Other stuff...
+
 Install Homestead (along with VirtualBox and Vagrant)
 https://laravel.com/docs/5.6/homestead#installation-and-setup
 
