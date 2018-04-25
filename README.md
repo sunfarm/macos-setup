@@ -48,7 +48,11 @@ Ctrl + Tab -- Switch windows within the current application
 
 ### Open iTerm
 
-``
+Run the following command to pull down this repo into `~/config/`
+`git clone git@github.com:sunfarm/macos-setup.git ~/config && cd ~/config`
+
+Run the installation script
+`bash install.sh`
 
 Install Homestead (along with VirtualBox and Vagrant)
 https://laravel.com/docs/5.6/homestead#installation-and-setup
