@@ -48,7 +48,7 @@ Ctrl + Tab -- Switch windows within the current application
 
 ### Open iTerm
 
-Run the following command to pull down this repo into `~/config/`
+Run the following command to pull down this repo into `~/config/` and move into that directory
 
 `git clone git@github.com:sunfarm/macos-setup.git ~/config && cd ~/config`
 
