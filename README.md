@@ -14,7 +14,13 @@ Home directory == `/Users/<YOUR_USERNAME>/` or `~/` or `$HOME`
 
 [Homebrew](https://brew.sh/) - Package manager for MacOS
 
+[Slack]()
 
+[Keyboard Maestro](https://www.keyboardmaestro.com/main/)
+
+#### App Store
+
+Airmail
 
 ### Optional (for now)
 
