@@ -10,13 +10,9 @@ Home directory == `/Users/<YOUR_USERNAME>/` or `~/` or `$HOME`
 
 [iTerm](https://www.iterm2.com/) - Better terminal
 
-[Spectacle](https://www.spectacleapp.com/) - Removes the only good reason people have to not like MacOS
-
 [Homebrew](https://brew.sh/) - Package manager for MacOS
 
 [Slack]()
-
-[Keyboard Maestro](https://www.keyboardmaestro.com/main/)
 
 #### App Store
 
@@ -40,6 +36,11 @@ There are other quality options, but this one serves my usage very well. Look in
 
 [Keyboard Maestro](https://www.keyboardmaestro.com/main/) - Automate anything
 I use Hammerspoon for a number of automation tasks, but Keyboard Maestro just has so many features that it often comes through in a pinch. I also use the clipboard history and text expansion literally all the time. The UI is kinda lame and slow sometimes, but I don't know of a 1-to-1 replacement alternative.
+
+### Install using the command line
+
+
+[Rectangle](https://github.com/rxhanson/Rectangle) - Replaces Spectacle; move/resize windows with your keyboard.
 
 ### Tips
 
@@ -74,7 +75,7 @@ https://laravel.com/docs/5.6/homestead#installation-and-setup
 @TODO: put the following in another place to keep this focused just on Mac setup.
 
 ### Read
-NOTE: I have added affiliate links because they exist and therefor it is dumb not to use them. This list would be exactly the same without them.
+NOTE: I have added affiliate links because they exist.
 
 [Audible](https://amzn.to/2TEgNNO)
 If you don't have an Audible subscription, I also really think you should get one. If will give you something to do while driving or at the gym. If you don't commute and don't go to the gym, it will give you reason to go to the gym which will increase the length/quality of your career/life.
